@@ -1,0 +1,27 @@
+date,rating,review,category,sentiment
+2026/1/3,5,推荐算法很懂我，经常可以发现喜欢的内容,Recommendation,Positive
+2026/1/5,5,内容质量很高，很多经验分享很有价值,Content Quality,Positive
+2026/1/8,4,每天都会打开看看，社区氛围不错,Community,Positive
+2026/1/10,2,广告越来越多，浏览体验受到影响,Advertisement,Negative
+2026/1/12,3,搜索功能一般，有时候找不到想看的内容,Search,Neutral
+2026/1/15,5,推荐内容非常精准，节省了很多寻找时间,Recommendation,Positive
+2026/1/18,2,经常刷到重复内容，希望推荐更丰富,Recommendation,Negative
+2026/1/20,4,喜欢收藏功能，可以记录很多攻略,Feature,Positive
+2026/1/22,2,很多笔记真实性不好判断,Trust,Negative
+2026/1/25,3,搜索关键词匹配不够准确,Search,Neutral
+2026/2/1,5,旅游攻略和生活分享非常丰富,Content Quality,Positive
+2026/2/3,1,广告太影响体验，希望减少商业内容,Advertisement,Negative
+2026/2/6,4,界面设计很好，用起来很舒服,UI Experience,Positive
+2026/2/10,3,希望增加更智能的搜索功能,Search,Neutral
+2026/2/13,5,推荐系统比其他平台更符合兴趣,Recommendation,Positive
+2026/2/16,2,有些热门内容质量下降了,Content Quality,Negative
+2026/2/20,4,收藏夹管理功能很好用,Feature,Positive
+2026/2/23,2,希望可以过滤广告内容,Advertisement,Negative
+2026/2/27,3,想找以前看过的内容比较困难,Search,Neutral
+2026/3/2,5,每天使用，小红书已经成为生活助手,Community,Positive
+2026/3/5,4,喜欢关注博主获取经验,Community,Positive
+2026/3/8,2,推荐有时候太局限，希望增加探索,Recommendation,Negative
+2026/3/12,3,搜索结果排序需要优化,Search,Neutral
+2026/3/15,1,广告和推广内容太多,Advertisement,Negative
+2026/3/18,5,内容丰富，非常适合学习新知识,Content Quality,Positive
+2026/3/20,4,产品体验整体很好,UI Experience,Positive
